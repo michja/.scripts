@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 DIRECTORY='/home/michael/.devilspie/'
 ONFILE='all-deco-on.dsx'
